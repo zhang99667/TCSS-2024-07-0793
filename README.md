@@ -1,7 +1,7 @@
 # TCSS-2024-07-0793
-The Influence of Opinion Leaders on Public Opinion Spread and  Control Strategies in Online Social Networks
+Title: The Influence of Opinion Leaders on Public Opinion Spread and  Control Strategies in Online Social Networks
 
-For access to the relevant datasets, please contact the corresponding author.
+**For access to the relevant datasets, please contact the corresponding author.**
 
 
 
